@@ -1,5 +1,5 @@
 
-#### Full Stack Developer 
+#### DevOps engineer 
 ![Full Stack Developer ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEo7NRkL8W9AFYFL47N12iadmbr7bpGacwQ&usqp=CAU)
 
 ### Hi there 👋, my name is Sirajuddin Mohammed
@@ -7,13 +7,13 @@ My name is Sirajuddin Mohammed.I am a enthusiastic Cloud Engineer eager to contr
 
 Skills: Cloud computing / Java / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Getting a Full-Time role  
+- 🔭 I’m currently working on getting a Full-Time role  
 - 🌱 I’m currently learning various tools used in DevOps  
 - 👯 I’m looking to collaborate on Cloud Architech 
 - 💬 Ask me about my future goals 
 - 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: He 
-- ⚡ Fun fact: If I could have any superpower, it would be Immense superhuman speed 
+- ⚡ Fun fact: If I could have any superpower, it would be superhuman speed 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohammedSirajuddin-654)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohammed-sirajuddin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Siraj_Moham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mohammedsirajuddin-654.github.io/)  
