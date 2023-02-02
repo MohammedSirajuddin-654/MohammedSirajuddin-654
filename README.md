@@ -3,9 +3,9 @@
 ![Full Stack Developer ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqEo7NRkL8W9AFYFL47N12iadmbr7bpGacwQ&usqp=CAU)
 
 ### Hi there 👋, my name is Sirajuddin Mohammed
-My name is Sirajuddin Mohammed.I am a enthusiastic Cloud Engineer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills. A clear understanding of Azure and trainings Sql/Pl-SQL. Motivated to learn, grow, and excel in the Cloud computing industry
+Efficient DevOps Engineer with over 4 years of experience assembling cloud infrastructure, utilizes strong managerial skills by negotiating with vendors and coordinating tasks with other IT team members. I have an excellent understanding of Microsoft Azure, and I am experienced in creating and maintaining CI/CD deployments in the cloud.
 
-Skills: Cloud computing / Java / REACT / JS / HTML / CSS
+Skills: Cloud computing / DevOPs / Java / JS / HTML / CSS
 
 - 🔭 I’m currently working on getting a Full-Time role  
 - 🌱 I’m currently learning various tools used in DevOps  
